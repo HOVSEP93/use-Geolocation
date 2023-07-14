@@ -12,7 +12,7 @@
 
 ## Demo
 
-[Insert gif or link to demo](https://use-geolocation.vercel.app/)
+You can check out the live demo [here](https://use-geolocation.vercel.app/)
 
 
 
